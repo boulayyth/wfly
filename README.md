@@ -103,4 +103,4 @@ dependencies{
 *   [FlycoRoundView](https://github.com/H07000223/FlycoRoundView)
 
 ## Thanks
-*   [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip)
+*   [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip)123
