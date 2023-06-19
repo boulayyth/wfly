@@ -20,7 +20,7 @@
 * CommonTabLayout:不同于SlidingTabLayout对ViewPager依赖,它是一个不依赖ViewPager可以与其他控件自由搭配使用的TabLayout.
     * 支持多种Indicator显示器,以及Indicator动画
     * 支持未读消息显示
-    * 支持Icon以及Icon位置
+
     * 新增方法for懒癌患者
     
     ```java
